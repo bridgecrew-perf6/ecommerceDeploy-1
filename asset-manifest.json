@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecommerceDeploy/static/css/main.83379e14.css",
-    "main.js": "/ecommerceDeploy/static/js/main.2d7b9671.js",
+    "main.js": "/ecommerceDeploy/static/js/main.69535328.js",
     "static/js/787.dcc73137.chunk.js": "/ecommerceDeploy/static/js/787.dcc73137.chunk.js",
     "static/media/converseBanner.bmp": "/ecommerceDeploy/static/media/converseBanner.eac95487777f45469c36.bmp",
     "static/media/allProductBanner.bmp": "/ecommerceDeploy/static/media/allProductBanner.7c6e15f7bcc054451bed.bmp",
@@ -18,11 +18,11 @@
     "static/media/converse.webp": "/ecommerceDeploy/static/media/converse.553f0e1737301a0337c4.webp",
     "index.html": "/ecommerceDeploy/index.html",
     "main.83379e14.css.map": "/ecommerceDeploy/static/css/main.83379e14.css.map",
-    "main.2d7b9671.js.map": "/ecommerceDeploy/static/js/main.2d7b9671.js.map",
+    "main.69535328.js.map": "/ecommerceDeploy/static/js/main.69535328.js.map",
     "787.dcc73137.chunk.js.map": "/ecommerceDeploy/static/js/787.dcc73137.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83379e14.css",
-    "static/js/main.2d7b9671.js"
+    "static/js/main.69535328.js"
   ]
 }
