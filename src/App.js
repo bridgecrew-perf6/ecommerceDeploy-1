@@ -38,7 +38,7 @@ function App() {
     }
   }, [user]);
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL} in Browser Router>
       <ScrollToTop />
       <div className="app">
         <DataProvider>
